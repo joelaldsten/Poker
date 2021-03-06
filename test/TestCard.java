@@ -1,7 +1,7 @@
 import static org.junit.Assert.*;
 import org.junit.jupiter.api.Test;
 
-public class testCard {
+public class TestCard {
 
     @Test
     public void testACard(){
